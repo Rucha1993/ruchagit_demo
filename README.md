@@ -1,2 +1,3 @@
 # ruchagit_demo
 This is my first git project
+author-rucha deshpande
